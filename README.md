@@ -1,2 +1,4 @@
 # NTSserviceoverviewpage
-this file contain service page code which is html and css
+this file is about NTS SERVICE OVERVIEW PAGE which contain html and css files
+
+ 
